@@ -1,0 +1,35 @@
+{
+  "name": "react-onepagescroll",
+  "version": "0.1.0",
+  "description": "A React plugin to set child 'sections' as one page scrollable",
+  "main": "lib/onePageScroll.jsx",,
+  "keywords": [
+    "react",
+    "scroll",
+    "responsive",
+    "react-component"
+  ],
+  "author": {
+    "name": "Benjamin R Harrison",
+    "email": "benr.harrison@outlook.com",
+    "url": ""
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://www.mit-license.org"
+  },
+  "bugs": {
+    "url": "https://github.com/benharrisonD59/react-onepagescroll/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "maintainers": [
+    {
+      "name": "benharrisonD59",
+      "email": "benr.harrison@outlook.com"
+    }
+  ]
+}
